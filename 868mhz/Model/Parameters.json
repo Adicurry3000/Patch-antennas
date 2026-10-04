@@ -1,0 +1,45 @@
+{
+    "parameters": [
+        {
+            "expr": "170",
+            "name": "sl",
+            "value": "170"
+        },
+        {
+            "expr": "210",
+            "name": "sw",
+            "value": "210"
+        },
+        {
+            "expr": "1.5",
+            "name": "sh",
+            "value": "1.5"
+        },
+        {
+            "expr": "0.035",
+            "name": "mt",
+            "value": "0.035"
+        },
+        {
+            "expr": "80",
+            "name": "pl",
+            "value": "80"
+        },
+        {
+            "expr": "104",
+            "name": "pw",
+            "value": "104"
+        },
+        {
+            "expr": "(sl-pl)/2",
+            "name": "msl",
+            "value": "45"
+        },
+        {
+            "expr": "3",
+            "name": "msw",
+            "value": "3"
+        }
+    ],
+    "version": 1
+}

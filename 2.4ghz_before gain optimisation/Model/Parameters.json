@@ -1,0 +1,60 @@
+{
+    "parameters": [
+        {
+            "expr": "76",
+            "name": "sw",
+            "value": "76"
+        },
+        {
+            "expr": "59",
+            "name": "sl",
+            "value": "59"
+        },
+        {
+            "expr": "1.5",
+            "name": "sh",
+            "value": "1.5"
+        },
+        {
+            "expr": "0.035",
+            "name": "mt",
+            "value": "0.035"
+        },
+        {
+            "expr": "29.20",
+            "name": "pl",
+            "value": "29.20"
+        },
+        {
+            "expr": "38",
+            "name": "pw",
+            "value": "38"
+        },
+        {
+            "expr": "(pl-sl)/2",
+            "name": "ml",
+            "value": "-14.9"
+        },
+        {
+            "expr": "2.86",
+            "name": "mw",
+            "value": "2.86"
+        },
+        {
+            "expr": "8",
+            "name": "inl",
+            "value": "8"
+        },
+        {
+            "expr": "0.74",
+            "name": "inw",
+            "value": "0.74"
+        },
+        {
+            "expr": "5.62",
+            "name": "k",
+            "value": "5.62"
+        }
+    ],
+    "version": 1
+}

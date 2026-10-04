@@ -1,0 +1,4 @@
+Solver_HF_TD_AMD64 @ Adi:  ======================================================================================================
+                           619.00 ms | --> peak | SV-crop-all | Outside MCalcResultIdentification (Solver) | 88.52 MB | 0.0000 MB
+                           620.00 ms |  --> 2nd | SV-crop-all | Outside MCalcResultIdentification (Solver) | 88.52 MB | 0.0000 MB
+                           ======================================================================================================

@@ -1,0 +1,44 @@
+2026-08-22 15:38:23   Optimizer Settings:
+
+                      Optimizer type: Trust Region Framework
+                      		Type: Local linear models on primary data
+                      .		Min trust region size (in unit cube): 0.01
+                      		Smart sensitivity updates: Legacy
+                      		Finite difference delta: 0.01
+                      		Finite difference adjustment: Moderate
+                      		Sigma (measure for globalness): 0.2
+                      			Tabu list vicinity radius: 0
+                      			Initial exploration threshold: 0
+                      		Surrogate optimization strategy: Automatic
+
+                      ---------------------------------------------------------------------------------------
+
+                      Parameters used for optimization:
+                      ---------------------------------------------------------------------------------------
+                      | name                    |          min |          max |      initial |
+                      ---------------------------------------------------------------------------------------
+                      | inl                     |            9 |           11 |           10 |
+                      ---------------------------------------------------------------------------------------
+
+                      Goal functionals used for optimization:
+
+                      1DC: 1D Results\S-Parameters\S1,1: minimize in range: total, weighted: 1.0
+2026-08-22 15:38:23   
+                      ________________________________________________________________________
+
+                      An error occurred during optimizers attempt to import parametric data of previous calculations. No parametric data will be imported. 
+
+2026-08-22 15:38:23   
+                      ________________________________________________________________________
+
+                      Trust Region Framework: There has been previously calculated data detected but it will not replace the starting point because it's not in the vicinity.
+
+2026-08-22 15:43:43   
+                      ________________________________________________________________________
+
+
+2026-08-22 15:43:43   
+                      ________________________________________________________________________
+
+                      Optimization aborted without any feasible calculation. Original parameters are kept.
+
